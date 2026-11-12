@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1SdZKDycPY=",
+  "success": true,
+  "projectFilePath": "C:\\Universidad\\SextoSemestre\\DesarrolloSistemas\\practicos\\Pract5\\Pract5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
